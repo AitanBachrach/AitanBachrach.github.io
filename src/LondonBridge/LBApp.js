@@ -4,7 +4,7 @@ import LobbyScreen from "./LobbyScreen"
 import WaitingScreen from "./WaitingScreen"
 import GameScreen from "./GameScreen"
 
-const baseURL = 'https://172.104.16.54'
+const baseURL = 'http://172.104.16.54'
 
 var lobbyCode = 0
 var playerNumber = 0

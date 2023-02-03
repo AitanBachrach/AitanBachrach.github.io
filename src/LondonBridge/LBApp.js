@@ -4,7 +4,7 @@ import LobbyScreen from "./LobbyScreen"
 import WaitingScreen from "./WaitingScreen"
 import GameScreen from "./GameScreen"
 
-const baseURL = 'https://aitanbachrachserver.net'
+const baseURL = 'https://aitanbachrachserver.net:5000'
 
 var lobbyCode = 0
 var playerNumber = 0

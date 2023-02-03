@@ -1,0 +1,23 @@
+{
+  "careerreadybootcamp":{
+    "name": "Career Ready Bootcamp",
+    "devtime" : "3 Weeks",
+    "description" : "A 3 week spent working within a team to build a 3d project while working with others",
+    "type" : "School",
+    "Skills" : "Teamwork, Project Leading, ",
+    "bullets" : {
+      "1" : "things"
+    }
+  },
+  "estore":{
+    "name": "Mock Estore",
+    "devtime" : "3 months",
+    "description" : "Worked within a team to be able to deliver a web application that meets specification while learning about software development practices, principles and design",
+    "type" : "School",
+    "Skills" : "Teamwork, Project Leading, ",
+    "bullets" : {
+      "1" : "Utilized a Spring REST API Java backend to provide data persistence for the admin and customers",
+      "2" : "Built a AngularJS front end to allow the users of the system to interact with the system with ease"
+    }
+  }
+}

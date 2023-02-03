@@ -10,6 +10,7 @@ function LobbyScreen(props){
     <>
       <label>Lobby Create Code:<input type='number' onChange={(e) => {createCode = e.target.value}}></input></label>
       <Button onClick={() => props.createLobbyCallback(createCode)}>Create Lobby</Button>
+      <br></br>
       <label>Lobby Join Code:<input type='number' onChange={(e) => {joinCode = e.target.value}}></input></label>
       <Button onClick={() => props.joinLobbyCallback(joinCode)}>Join Lobby</Button>
     </>
